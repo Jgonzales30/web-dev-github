@@ -1,5 +1,4 @@
-<<<<<<< HEAD
 "Commit has been understood" 
-=======
+
 "I know nothing about git" 
->>>>>>> feature
+
