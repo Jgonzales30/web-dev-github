@@ -1,1 +1,1 @@
-"another commit made" 
+"Commit has been understood" 
